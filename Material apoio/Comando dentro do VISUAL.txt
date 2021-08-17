@@ -1,0 +1,34 @@
+#Atualizar pagina sozinha, sem necessidade de ficar apertando F5.
+->instalar extensão = " live server "
+->instalar dependencia Package.json = " npm init -y "
+->instalar servidor cria node_modules = " npm install express "
+->reiniciando automaticamente o servidor = " npm install -D nodemon "
+->instalando Nunjucks - " npm install nunjucks "
+----------------------------------------------------------------------
+DICAS:
+
+Ajustar texto todo certinho: Shift + tab
+
+----------------------------------------------------------------------
+DICA: Como pegar imagens de um video no youtube:
+https://boingboing.net/features/getthumbs
+
+----------------------------------------------------------------------
+DICAS
+
+.get = pegar rota
+console.log("") = exibir teste no terminal
+req = request(requisição) 
+res = response(resposta)
+
+
+########CRIANDO ARQUIVO .JS########
+
+document. (documento/é um elemento da DOM)
+.querySelector(
+.querySelectorAll (pego coleção de arquivos iguais)
+.addEventListener("" , function() {}) (é uma função que recebe parametros)
+.classList.add (
+
+
+
